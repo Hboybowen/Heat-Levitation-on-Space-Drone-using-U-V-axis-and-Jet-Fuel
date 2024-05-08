@@ -3,3 +3,5 @@ A Flying Datacenter-Class titan space drone using Heat Levitation on the (U,V) A
  All defined for a project lead and development.
  No cockpit 
  On-Board Data Center based controller of a Titan  Space Drone...
+Just read the code and develop!
+ 
